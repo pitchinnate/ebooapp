@@ -1,5 +1,5 @@
 {
-  "name": "pitchinnate/eboomvc2",
+  "name": "pitchinnate/ebooapp",
   "authors": [
     {
       "name": "Nate Denlinger",
@@ -9,7 +9,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "C:\\wamp64\\www\\eboomvc\\"
+      "url": "https://github.com/pitchinnate/ebooapp.git"
     }
   ],
   "require": {

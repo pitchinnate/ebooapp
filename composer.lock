@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "44aaa2ffb6c102861044680044c8e807",
-    "content-hash": "60161646e7f1d6c6c2f90a4f300fe88b",
+    "hash": "24dc1d6ce3e4eaa1bb891a85b008a411",
+    "content-hash": "8be9a4d3df89bcb6aa302bbab0b0be51",
     "packages": [
         {
             "name": "pitchinnate/eboomvc",
