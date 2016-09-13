@@ -1,0 +1,23 @@
+{
+  "name": "pitchinnate/eboomvc2",
+  "authors": [
+    {
+      "name": "Nate Denlinger",
+      "email": "pitchinnate@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "C:\\wamp64\\www\\eboomvc\\"
+    }
+  ],
+  "require": {
+    "pitchinnate/eboomvc": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  }
+}
